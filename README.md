@@ -4,23 +4,26 @@
 
 ### Engenharia de Software | Backend em formação | Python | Java | Godot
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Construindo+sistemas+reais+com+Python+e+Java;Estudando+backend%2C+banco+de+dados+e+automa%C3%A7%C3%A3o;Criando+jogos+e+prot%C3%B3tipos+interativos+com+Godot" alt="Typing SVG" />
+<p>
+  Desenvolvendo sistemas, automações e protótipos de jogos.
+  <br>
+  Um commit por vez.
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Godot](https://img.shields.io/badge/Godot-111827?style=for-the-badge&logo=godotengine&logoColor=478CBF)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=60A5FA)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=38BDF8)
+<p>
+  <a href="https://MatheusFarias2.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=githubpages&logoColor=8B5CF6" alt="Portfólio" />
+  </a>
+  <a href="https://github.com/MatheusFarias2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+  <a href="COLOQUE-SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEUEMAILAQUI">
+    <img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" />
+  </a>
+</p>
 
 </div>
 
@@ -33,6 +36,28 @@ Sou estudante de **Engenharia de Software** e estou construindo minha trajetóri
 Gosto de criar projetos práticos, principalmente sistemas que resolvem problemas reais, organizam processos e ajudam a transformar ideias em aplicações funcionais.
 
 Atualmente venho estudando e desenvolvendo projetos com **Python**, **Java**, **SQLite**, **MySQL**, **Git/GitHub**, **Flutter** e **Godot**.
+
+---
+
+## 🌐 Portfólio
+
+<div align="center">
+
+### Acesse meu portfólio pessoal
+
+<p>
+  Site com uma visão geral do meu perfil, tecnologias, projetos e objetivos profissionais.
+</p>
+
+<a href="https://MatheusFarias2.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" alt="Acessar Portfólio" />
+</a>
+
+<br><br>
+
+🔗 **Link:** [https://MatheusFarias2.github.io](https://MatheusFarias2.github.io)
+
+</div>
 
 ---
 
@@ -91,23 +116,15 @@ Atualmente venho estudando e desenvolvendo projetos com **Python**, **Java**, **
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="Godot" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQLite" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" />
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Godot](https://img.shields.io/badge/Godot-111827?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=38BDF8)
 
 </div>
 
@@ -161,31 +178,6 @@ Boas práticas de programação
 
 ---
 
-## 📊 Meu foco atual
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚙️ Backend</h3>
-      <p>Python, Java, lógica de negócio e banco de dados.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🖥️ Desktop</h3>
-      <p>Sistemas com interface gráfica, SQLite e organização de dados.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎮 Game Dev</h3>
-      <p>Protótipos em Godot, GDScript e mecânicas interativas.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🎯 Objetivo
 
 Meu objetivo é evoluir como desenvolvedor de software, criando projetos cada vez mais completos, bem organizados e próximos de aplicações reais.
@@ -194,13 +186,22 @@ Busco desenvolver uma base sólida em backend, banco de dados, versionamento, ar
 
 ---
 
-## 🌐 Onde me encontrar
+## 📫 Contato
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/MatheusFarias2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/matheus-farias-4456b8277/)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:matheusgfarias18@gmail.com)
+<a href="https://MatheusFarias2.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=githubpages&logoColor=8B5CF6" alt="Portfólio" />
+</a>
+<a href="https://github.com/MatheusFarias2" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/matheus-farias-4456b8277/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="mailto:matheusgfarias18@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" />
+</a>
 
 </div>
 
@@ -208,8 +209,6 @@ Busco desenvolver uma base sólida em backend, banco de dados, versionamento, ar
 
 <div align="center">
 
-### 🟣 Criando sistemas, jogos e soluções práticas. Um commit por vez.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:38BDF8&height=120&section=footer" />
+### 🟣 Criando sistemas, jogos e soluções práticas.
 
 </div>
