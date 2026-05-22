@@ -4,26 +4,7 @@
 
 ### Engenharia de Software | Backend em formação | Python | Java | Godot
 
-<p>
-  Desenvolvendo sistemas, automações e protótipos de jogos.
-  <br>
-  Um commit por vez.
-</p>
-
-<p>
-  <a href="https://MatheusFarias2.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=githubpages&logoColor=8B5CF6" alt="Portfólio" />
-  </a>
-  <a href="https://github.com/MatheusFarias2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  </a>
-  <a href="COLOQUE-SEU-LINKEDIN-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:SEUEMAILAQUI">
-    <img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Construindo+sistemas+reais+com+Python+e+Java;Estudando+backend%2C+banco+de+dados+e+automa%C3%A7%C3%A3o;Criando+jogos+e+prot%C3%B3tipos+interativos+com+Godot" alt="Typing SVG" />
 
 </div>
 
