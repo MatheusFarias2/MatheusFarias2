@@ -161,13 +161,26 @@ Boas práticas de programação
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Meu foco atual
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusFarias2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=E5E7EB" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFarias2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend</h3>
+      <p>Python, Java, lógica de negócio e banco de dados.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🖥️ Desktop</h3>
+      <p>Sistemas com interface gráfica, SQLite e organização de dados.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎮 Game Dev</h3>
+      <p>Protótipos em Godot, GDScript e mecânicas interativas.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
